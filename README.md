@@ -13,4 +13,4 @@ Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
 - `README.md`: documentación básica del proyecto.
 ## Nota de verificación
 
-Version opcion B Segunda parte
+Version para hacer pull
