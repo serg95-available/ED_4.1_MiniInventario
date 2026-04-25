@@ -12,8 +12,5 @@ Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
 - `.gitignore`: exclusiones de archivos no necesarios.
 - `README.md`: documentación básica del proyecto.
 ## Nota de verificación
-Este cambio se ha realizado desde una copia clonada del repositorio.
-<<<<<<< HEAD
 
-=======
->>>>>>> eba01de (actializacion estructura en proyecto original)
+Version opcion B Segunda parte
